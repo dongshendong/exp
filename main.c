@@ -1,4 +1,4 @@
 int main()
 {
-    return 20;
+  return 0;
 }
