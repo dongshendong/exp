@@ -1,0 +1,3 @@
+void printMSG(char* msg);
+
+
